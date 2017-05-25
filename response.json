@@ -1,0 +1,239 @@
+{
+	"getBackupInfo":{
+		"Linux":{
+			"text":"How often my system is backed up?\n >On Lapos Bacula is installed and a backup is running automatically once a day.\n >It is possible to install Bacula on LDT SLES 12 and RHEL 7.\n>More information can be found in this announcement:\n https://jam4.sapjam.com/blogs/show/tiKMmu1xeRAKaIIFQ0NYhy\n\n *How can I restore my data?*\n>Please follow this document to learn how to restore your data backed up with Bacula on Lapos:\n https://jam4.sapjam.com/groups/0axcizqx9pZUmnJNUgGBT6/documents/MQqRGimSW4h1mMn9o6u1tO/slide_viewer",
+			"link":{
+				"href":"https://jam4.sapjam.com/blogs/show/tiKMmu1xeRAKaIIFQ0NYhy",
+				"text":"Linux Backup KB",
+				"target":"_blank"
+			}
+		},
+		"Windows":{
+			"text":"Backup and restore files on your Windows \n",
+			"link":{
+				"href":"https://fiorilaunchpad.sap.com/sites#Help-Create&/search=backup windows",
+				"text":"Windows Backup KB",
+				"target":"_blank"
+			}
+		},
+		"macOS":{
+			"text":"Data backup on macOS: \n",
+			"link":{
+				"href":"https://fiorilaunchpad.sap.com/sites#Help-Create&/articleHelp/89653-xUwb3Q7TNDJZ0vKx3CZtWM~P",
+				"text":"macOS Backup KB",
+				"target":"_blank"
+			}
+		}
+	},
+	"getSSOInfo":{
+		"Linux":{
+			"text":"Is there a Single Sign On (SSO) on Linux?*\n\n>Yes and No.\n>You can import your personal certificate to FireFox in order to enable SSO for Corporate web applications.\n >But SSO is not supported natively on Linux images (e.g. local SAP GUI installation)",
+			"link":{
+				"href":"https://jam4.sapjam.com/groups/0axcizqx9pZUmnJNUgGBT6/documents/je924AlglUdgx4wJoyGKxE/slide_viewer",
+				"text":"(page 3 - 6) describes how to do SSO on Firefox",
+				"target":"_blank"
+			}
+		},
+		"Windows":{
+			"text":"SSO app is installed by default on SAP images. in case your SSO certificate is missing: \n",
+			"link":{
+				"href":"https://fiorilaunchpad.sap.com/sites#Help-Create&/articleHelp/172164-DFeuP6jRb9G0xJOPTye9Aa~P",
+				"text":"New SSO certificate enrollment",
+				"target":"_blank"
+			}
+		},
+		"macOS":{
+			"text":"Single Sign-On - macOS: \n",
+			"link":{
+				"href":"https://fiorilaunchpad.sap.com/sites#Help-Create&/articleHelp/89653-IAaqoxk17FXz35P83LvINB~P",
+				"text":"SAP SSO for macOS - KB",
+				"target":"_blank"
+			}
+		}
+	},
+	"getSAPGuiInfo":{
+		"Linux":{
+			"text":"How can I use the SAP GUI on SAP Linux image (Lapos)?*\n\n>There is already a SAP Gui installed on Lapos.\n",
+			"link":{
+				"href":"https://jam4.sapjam.com/groups/0axcizqx9pZUmnJNUgGBT6/documents/Ni8Apzwn7BdiZYU8vRELV8/slide_viewer",
+				"text":"Linux SAP GUI KB",
+				"target":"_blank"
+			}
+		},
+		"Windows":{
+			"text":"You can find the SAP GUI under SoftwareCorner app: \n",
+			"link":{
+				"href":"http://softwarecorner.wdf.sap.corp:1080/",
+				"text":"SoftwareCorner app",
+				"target":"_blank"
+			}
+		},
+		"macOS":{
+			"text":"Setup SAP GUI on macOS: \n",
+			"link":{
+				"href":"https://fiorilaunchpad.sap.com/sites#Help-Create&/articleHelp/89653-Y5AK5WIcii1V7AV05GISIN~P",
+				"text":"SAP GUI for Java Setup - macOS",
+				"target":"_blank"
+			}
+		}
+	},
+	"getRootInfo":{
+		"Linux":{
+			"text":"Root/super-user/admin permissions on Linux: \n ",
+			"link":{
+				"href":"https://jam4.sapjam.com/blogs/show/nCvlqoc9bc8OYKScDYC3hJ",
+				"text":"Linux root KB",
+				"target":"_blank"
+			}
+		},
+		"Windows":{
+			"text":"IT Identity & Access Management \n",
+			"link":{
+				"href":"https://jam4.sapjam.com/groups/about_page/O44DvPsGH6fPFhSDlWR2ZN",
+				"text":"Authorizations for Business Applications",
+				"target":"_blank"
+			}
+		},
+		"macOS":{
+			"text":"Root access on macOS: \n",
+			"link":{
+				"href":"https://jam4.sapjam.com/wiki/show/Y3ZyCgNFhK1raTctIzxugv?_lightbox=true",
+				"text":"Privileges- macOS KB",
+				"target":"_blank"
+			}
+		}
+	},
+	"getOfficeInfo":{
+		"Linux":{
+			"text":"Can I access Office applications from Linux?\n>Yes you can! Microsoft Office applications are accessible from Lapos as *Published Apps*.\n>Outlook, Excel, Word and Powerpoint icon shortcuts accessible directly from the Lapos desktop.\n>The Office apps can also be accessible from this link:\n ",
+			"link":{
+				"href":"https://citrix-access.global.corp.sap/Citrix/OfficeWeb/",
+				"text":"Published Apps",
+				"target":"_blank"
+			}
+		},
+		"Windows":{
+			"text":"Microsoft Office Resources in SAP \n",
+			"link":{
+				"href":"https://jam4.sapjam.com/wiki/show/n36vEbKlKTMNzSy6dnsL8y",
+				"text":"MS Office - Jam",
+				"target":"_blank"
+			}
+		},
+		"macOS":{
+			"text":"Microsoft Office on macOS: \n",
+			"link":{
+				"href":"https://fiorilaunchpad.sap.com/sites#Help-Create&/articleHelp/89653-TRA7neWFyQEoFrOOLj2BPy~P",
+				"text":"Office for Mac 2016  - macOS KB",
+				"target":"_blank"
+			}
+		}
+	},
+	"getLoginInfo":{
+		"Linux":{
+			"text":"How can I logon to my Linux system?\n\n Just check if your Active Directory (D/I/C) user is *enabled for Linux* usage. For this you can use the following tool \n",
+			"link":{
+				"href":"https://linuxattr.mo.sap.corp",
+				"text":"Set your Linux attributes",
+				"target":"_blank"
+			}
+		},
+		"Windows":{
+			"text":"Login on Windows \n",
+			"link":{
+				"href":"https://fiorilaunchpad.sap.com/sites#Help-Create&/search=login windows",
+				"text":"Windows Backup KB",
+				"target":"_blank"
+			}
+		},
+		"macOS":{
+			"text":"How to login to the domain: \n",
+			"link":{
+				"href":"https://fiorilaunchpad.sap.com/sites#Help-Create&/articleHelp/89653-yEjbeasnf4zfvoft9qxDSb~P",
+				"text":"First Time Login - macOS KB",
+				"target":"_blank"
+			}
+		}
+	},
+	"getBrowsersInfo":{
+		"Linux":{
+			"text":"Is it possible to install other web browsers on Linux?\n\n>Lapos is delivered with Firefox by default.\n>If needed a different browser (if SWAP approved) can be installed, but without IT support \n",
+			"link":{
+				"href":"https://jam4.sapjam.com/blogs/show/tiKMmu1xeRAKaIIFQ0NYhy",
+				"text":"Linux Backup KB",
+				"target":"_blank"
+			}
+		},
+		"Windows":{
+			"text":"Reset IE settings: \n",
+			"link":{
+				"href":"https://fiorilaunchpad.sap.com/sites#Help-Create&/articleHelp/172164-TcOMJWKW16ZJJQvldadZu1~P",
+				"text":"Windows - reset IE settings KB",
+				"target":"_blank"
+			}
+		},
+		"macOS":{
+			"text":"Chrome setup on macOS: \n",
+			"link":{
+				"href":"https://fiorilaunchpad.sap.com/sites#Help-Create&/articleHelp/89653-rs7XNuEJradYG4tFquEHFT~P",
+				"text":"macOS Chrome Setup KB",
+				"target":"_blank"
+			}
+		}
+	},
+	"getRemoteInfo":{
+		"Linux":{
+			"text":"How can I remotely connect from my Linux device?\n \nOn Lapos there is a VPN client installed, \n>please follow this document to learn how to establish VPN connection:\n",
+			"link":{
+				"href":"https://jam4.sapjam.com/groups/0axcizqx9pZUmnJNUgGBT6/documents/HYktkUZ2xPCjpVnDn5v19d/slide_viewer",
+				"text":"Linux Remote KB",
+				"target":"_blank"
+			}
+		},
+		"Windows":{
+			"text":"Please use the following link to access SAP resources remotely \n",
+			"link":{
+				"href":"https://access.sap.com",
+				"text":"SAP Access",
+				"target":"_blank"
+			}
+		},
+		"macOS":{
+			"text":"Please use the following link to access SAP resources remotely: \n",
+			"link":{
+				"href":"https://access.sap.com",
+				"text":"SAP Access",
+				"target":"_blank"
+			}
+		}
+	},
+	"getPrintingInfo":{
+		"Linux":{
+			"text":"How can I install printers on Linux? \n\n>Please follow this link to learn how to install a printer:  \n",
+			"link":{
+				"href":"https://jam4.sapjam.com/groups/0axcizqx9pZUmnJNUgGBT6/documents/HvVvxQN6UWzLxPSI6VKZ9y/slide_viewer",
+				"text":"Linux Printing KB",
+				"target":"_blank"
+			}
+		},
+		"Windows":{
+			"text":"How can I install printers on Windows?\n\n>Please follow this link to learn how to install a printer: \n",
+			"link":{
+				"href":"http://sapprinting.wdf.sap.corp:1080/",
+				"text":"Windows Printing KB",
+				"target":"_blank"
+			}
+		},
+		"macOS":{
+			"text":"How can I install printers on macOS?\n\n>Please follow this link to learn how to install a printer \n",
+			"link":{
+				"href":"https://fiorilaunchpad.sap.com/sites#Help-Create&/articleHelp/89653-yAOflXfvZudRP7xP2UsdJW~P",
+				"text":"macOS Printer KB",
+				"target":"_blank"
+			}
+		}
+	},
+	"getJavaInfo":"Is Java engine installed on SAP image?\n>Yes, SAP Java engine is already installed on SAP image.\n>If needed, it can be uninstalled and a different Java version can be installed",
+	"txtNotFound":"Sorry, this topic is not in my knowledge database. Would you like to chat with a live human agent ? if so, click on one of the links below \n\n",
+	"getHelpInfo":"I'm programmed to help you with some IT topics\n\n>Logon to the domain\n>Microsoft Office applications\n>Remote connection\n>Java engine\n>Backup and restore\n>Web browsers\n>Printing\n>Single Sign On (SSO)\n>SAP GUI\n>Run as Admin / Root permissions"
+}
